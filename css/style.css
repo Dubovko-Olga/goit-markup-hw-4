@@ -398,11 +398,11 @@ align-items: center;
   padding: 100px 0;
 }
 .footer-webstudio{
-
   margin-right: 120px;
 }
 .footer .container {
   display: flex;
+  align-items: baseline;
 }
 .footer-link {
   font-family: "Raleway", sans-serif;
@@ -456,7 +456,8 @@ align-items: center;
    border-radius: 50%;
   background-color: #4d5ae5;
   justify-content: center;
-  align-items: baseline;
+  align-items: center;
+  
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-icons-link:hover,
