@@ -436,7 +436,6 @@ align-items: center;
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-
 }
 
 .footer-icons {
@@ -447,7 +446,6 @@ align-items: center;
   width: 40px;
   height: 40px;
   fill: #f4f4fd;
-  margin-top: 16px;
 }
 .footer-icons-link{
   display: flex;
